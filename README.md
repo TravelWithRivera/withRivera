@@ -1,12 +1,5 @@
-# LoveRecord
-Love Record 一个照片轮播的动画网站，纪录了我们在一起的时间。轮播背景用我、她、我们的照片运用上素描大师的滤镜营造故事效果，并且每张图片配上那么一两句话，描述时间地点等信息。
+# The Time with Rivera
+
+记录与 Rivera 在一起的点点滴滴
 
 [点此，查看我们的记忆](https://windzlife.github.io/withRivera/) 
-
-
-
-**兼容性**
-
-目前已测试：
-
-Chrome/iPhone 7
